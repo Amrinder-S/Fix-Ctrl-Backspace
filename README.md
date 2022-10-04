@@ -7,3 +7,4 @@ Note: it might not work some times if your PC is slow (well idk how to fix it, l
 - [Install AHK](https://www.autohotkey.com/)
 - Run the script.
 - You can put the AHK in your startup folder: %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
+by doing the above, the script will auto run each time your PC starts.
