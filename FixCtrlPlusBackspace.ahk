@@ -1,3 +1,1 @@
-^Backspace::
-Send ^+{left}{delete}
-return
+^Backspace:: Send ^+{left}{delete}
